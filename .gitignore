@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+
+# Raw customer data
+data/raw/
+
+# Generated customer exports
+churn_scored_customers.csv
+*_predictions.csv
+*_scored*.csv
+
+# Backups
+*backup*
+*.bak
+
+# Editor files
+.vscode/
+.DS_Store
+# Generated explanation files
+explanation_results/
+
+# Temporary files
+*.tmp
+# Local datasets and backups
+data/raw/
+data/cleaned_data.csv
+data/*backup*
+
+# Trained model backups
+models/*.joblib.bak
+
+# Generated reports and exports
+evaluation_results/
+explanation_results/
+churn_scored_customers.csv
