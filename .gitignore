@@ -46,3 +46,11 @@ models/*.joblib.bak
 evaluation_results/
 explanation_results/
 churn_scored_customers.csv
+archive/
+
+monitoring/prediction_history.csv
+data/cleaned_data_backup_before_raw.csv
+first_program.py
+
+/customer-churn-prediction/
+/customer-churn-prediction - Copy/
