@@ -1,4 +1,9 @@
 ﻿# Customer Churn Intelligence
+ ## Live Demo
+
+Try the deployed ChurnIQ application:
+
+[Launch ChurnIQ Dashboard](https://customer-churn-prediction-qwshiexkocecipbs2pd7au.streamlit.app/)
 
 An end-to-end machine-learning project that estimates customer churn
 risk, explains model predictions, and helps prioritize
