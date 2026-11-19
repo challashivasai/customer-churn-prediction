@@ -43,7 +43,6 @@ data/*backup*
 models/*.joblib.bak
 
 # Generated reports and exports
-evaluation_results/
 explanation_results/
 churn_scored_customers.csv
 archive/
