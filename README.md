@@ -207,7 +207,7 @@ upload a file containing only pre-encoded features.
 
 -   Add cross-validation and calibration analysis.
 -   Compare models using business-oriented cost/benefit metrics.
--   Add monitoring for data drift and prediction quality.
+-   - Add scheduled data-drift monitoring and validate prediction quality using actual customer outcomes.
 -   Validate retention actions through A/B testing.
 -   Add automated tests and a reproducible training pipeline.
 
