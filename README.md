@@ -214,5 +214,7 @@ upload a file containing only pre-encoded features.
 
 ## Author
 
-Add your name, contact details, and portfolio links here.
+**Challa Shivasai**
+
+- GitHub: https://github.com/challashivasai
 
